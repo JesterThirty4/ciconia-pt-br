@@ -12,7 +12,7 @@ To install, download the latest release on the [Releases](https://github.com/Jes
 - Main files used in the project.
 
 # How to create a final release
-## Those aren't instructions on how to install the translation! For this, read "About the Patch" above.
+## Those aren't instructions on how to install the translation! For them, read "About the Patch" above.
 
 To create a final patch like my repository, the resources are all included in [tools](https://github.com/JesterThirty4/ciconia-pt-br/tree/master/tools).
 - The first step is to extract *arc.nsa*, for this, use *nsaout.exe*. You just need to move it to a folder with an archive *arc.nsa* and then execute *nsaout*. It'll extract the archives automatically, in a folder named *arc*.
