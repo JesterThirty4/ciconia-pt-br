@@ -12,10 +12,10 @@ To install, download the latest release on the [Releases](https://github.com/Jes
 - Main files used in the project.
 
 # Project Members
-- JesterThirty4 (Translator)
-- Anna Reis (Programmer)
+- [JesterThirty4](https://twitter.com/JesterThirty4) (Translator)
+- [Anna Reis](https://twitter.com/MiyoHead) (Programmer)
 
 # Credits
-- @MiyoHead Helped me with the script and patch! Thank you!
-- @Inochi-PM Provided me with his Ciconia logo. Thank you!
-- @Loli_Deca Helped me with some important grammatical erros. Thank you!
+- [@MiyoHead](https://twitter.com/MiyoHead) Helped me with the script and patch! Thank you!
+- [@InochiPM](https://twitter.com/InochiPM) Provided me with his Ciconia logo. Thank you!
+- [@Loli_Deca](https://twitter.com/Loli_Deca) Helped me with some important grammatical erros. Thank you!
