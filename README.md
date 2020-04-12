@@ -1,4 +1,4 @@
-If you want to read this readme in english, please refer to this link [Releases](https://github.com/JesterThirty4/ciconia-pt-br/blob/master/READMEEN.md).
+If you want to read this readme in english, please refer to this [Link](https://github.com/JesterThirty4/ciconia-pt-br/blob/master/READMEEN.md).
 
 # Sobre ciconia-pt-br
 Esse repositório tem como objetivo traduzir a Phase 1 de Ciconia e suas sequências do Inglês para o Português Brasileiro.
