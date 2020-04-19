@@ -5,7 +5,7 @@ Esse repositório tem como objetivo traduzir a Phase 1 de Ciconia e suas sequên
 # Sobre o Patch / Instalação da Tradução
 Para instalar a versão mais atual do patch, vá até a página [Releases](https://github.com/JesterThirty4/ciconia-pt-br/releases) e baixe o .rar mais recente.
 
-1) Baixe a tradução em releases
+1) Baixe a tradução em [releases](https://github.com/JesterThirty4/ciconia-pt-br/releases)
 2) Mova a pasta Ciconia PT_BR dentro o .rar para a pasta onde está instalado seu jogo (Ciconia)
 Obs: O jogo deve ser adquirido por sua conta, ele pode ser comprado na [Steam](https://store.steampowered.com/app/1162560/Ciconia_When_They_Cry__Phase_1_For_You_the_Replaceable_Ones/).
 3) Execute o jogo usando o ciconia_phase1.exe dentro da pasta Ciconia PT_BR (ela deve estar dentro da pasta do jogo).
@@ -37,3 +37,7 @@ Para criar um patch final no meu repositório, os recursos necessários já est�
 - [@MiyoHead](https://twitter.com/MiyoHead) Me ajudou com o script e construção do patch! Obrigado!
 - [@InochiPM](https://twitter.com/InochiPM) Me providenciou a PSD para o logo de Ciconia dele. Obrigado!
 - [@Loli_Deca](https://twitter.com/Loli_Deca) Me ajudou com a correção de alguns erros gramaticais importantes. Obrigado!
+
+# Contatos
+E-mail: jesterthirty4@gmail.com
+Discord: JesterThirty4#1996 ou entre no [servidor](https://discordapp.com/invite/4S2cmY3).
