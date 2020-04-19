@@ -40,4 +40,5 @@ Para criar um patch final no meu repositório, os recursos necessários já est�
 
 # Contatos
 E-mail: jesterthirty4@gmail.com
+
 Discord: JesterThirty4#1996 ou entre no [servidor](https://discordapp.com/invite/4S2cmY3).
