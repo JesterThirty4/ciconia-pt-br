@@ -19,7 +19,7 @@ Resumindo, sua pasta de Ciconia deve ficar [assim](https://imgur.com/Z2wq7RA).
 - arc: Arquivos principais usados no projeto.
 
 # Como criar um release final
-## Essas não são instruções de instalação da tradução! Para elas, leia "Sobre o Patch" acima.
+## Essas NÃO são instruções de instalação da tradução! Para elas, leia "Sobre o Patch" acima.
 Para criar um patch final no meu repositório, os recursos necessários já estão inclusos em [tools](https://github.com/JesterThirty4/ciconia-pt-br/tree/master/tools).
 - A primeira etapa é extrair o *arc.nsa*, para isso use o *nsaout.exe*, basta deixar ele em uma pasta junto com o arquivo *arc.nsa* e executar o *nsaout* que ele extrairá os arquivos automaticamente em uma pasta chamada arc*
 - Agora você possuí todos as imagens que você precisa editar. Procure por PSDs do arquivo que vai editar no [photoshop-resources](https://github.com/JesterThirty4/ciconia-pt-br/tree/master/photoshop%20resources). Após editar o necessário, você precisa compilar o arc em um *.nsa* novamente. Para isso, use a ferramenta *nsaarc.exe* em [tools](https://github.com/JesterThirty4/ciconia-pt-br/tree/master/tools). Basta executar, selecionar a pasta arc e escrever o nome do *arquivo.nsa*
