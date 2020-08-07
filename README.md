@@ -9,8 +9,7 @@ Para instalar a versão mais atual do patch, vá até a página [Releases](https
 2) Mova a pasta Ciconia PT_BR dentro o .rar para a pasta onde está instalado seu jogo (Ciconia)
 Obs: O jogo deve ser adquirido por sua conta, ele pode ser comprado na [Steam](https://store.steampowered.com/app/1162560/Ciconia_When_They_Cry__Phase_1_For_You_the_Replaceable_Ones/).
 3) Execute o jogo usando o ciconia_phase1.exe dentro da pasta Ciconia PT_BR (ela deve estar dentro da pasta do jogo).
-Resumindo, sua pasta de Ciconia deve ficar [assim](https://imgur.com/Z2wq7RA).
-4) Pronto, basta ler e se divertir! Os tópicos abaixo não são para quem quer apenas usar a tradução, então podem ignorar eles se você não quiser contribuir com ela.
+4) Pronto, basta ler e se divertir! Quando iniciar o jogo, selecione Português. Os tópicos abaixo não são para quem quer apenas usar a tradução, então podem ignorar eles se você não quiser contribuir com ela.
 # Estrutura do Repositório
 
 - tools: A pasta onde imagens em PSD necessárias para alterar menus/logos estão guardadas.
