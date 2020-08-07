@@ -1,0 +1,24 @@
+Como instalar a tradução:
+
+ATENÇÃO: CASO ESTEJA ATUALIZANDO UMA VERSÃO ANTIGA DESSE PATCH, SEUS SAVES ANTIGOS NÃO FUNCIONARÃO!
+Saves da versão em inglês também não funcionarão.
+------------------------------
+INSTALAÇÃO:
+
+1) Arraste a pasta Ciconia PT_BR para o local onde seu
+Ciconia When They Cry está instalado.
+(Steam: clique com botão direito em ciconia em sua biblioteca, propriedades e procure pelo local de instação)
+
+2) Execute o jogo com o exe que está >NA PASTA< Ciconia PT_BR, que agora deve estar contida no local de instalação do seu jogo.
+
+3) Tenha uma boa leitura!
+
+-------------------------------
+CRÉDITOS DA TRADUÇÃO
+TRADUZIDO POR: JesterThirty4
+EDIÇÃO DE SCRIPT: Anna Reis
+link do projeto: https://github.com/JesterThirty4/ciconia-pt-br
+-------------------------------
+ABERTURA LEGENDADA:
+https://www.youtube.com/watch?v=_mrSmBaZ8MI
+Futuras legendas de outras músicas serão postadas em meu canal: https://www.youtube.com/channel/UCdc0ipbawKNkZe0YSXKvrkg?view_as=subscriber
